@@ -36,13 +36,12 @@
  cd amrutam-routine
 ```
 ### 2. Install dependencies
-
+ ```bash
 npm install
 # or
 yarn install
-
+```
 ### 3. Start the app
-
+ ```bash
 npx expo start
-
-## Sample Screen
+```
